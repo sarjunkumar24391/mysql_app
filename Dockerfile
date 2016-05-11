@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER CenturyLinkLabs
+MAINTAINER sarjunkumar24391/mysql_app
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
